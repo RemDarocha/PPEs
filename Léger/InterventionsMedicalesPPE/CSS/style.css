@@ -1,0 +1,116 @@
+html{
+    font-family: 'Raleway',sans-serif;
+}
+body{
+    margin: -21px 0px 0px 0px;
+}
+#bandeau{
+    height: 180px;
+    width:100%;
+    background-color: #bbbdd0;
+    text-align: right;
+    color: #0067b8;
+    line-height: 180px;
+    margin-top: -10px;
+}
+#bandeau h1{
+    font-size: 270%;
+    margin-left:10px ;
+}
+#bandeau img{
+    margin-left: 10px;
+    width:25%;
+    max-width: 352px;
+    float: left;
+    margin-top: 25px;
+}
+#main-intro{
+    text-align: center;
+    font-size: 150%;
+    color: #003863;
+}
+#intervention-link{
+    text-align:center;
+    width: 25%;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    border: black 1px solid;
+    font-size: 200%;
+}
+#intervention-link a {
+    text-decoration: none;
+}
+.main-action{
+    color : #0067b8;
+    text-decoration: none;
+    display: block;
+    min-height: 70px;
+    height: fit-content;
+    width: 32%;
+    text-align: center;
+    float: left;
+    margin: 5px 5px 5px 5px;
+    background-color: #bbbdd0;
+    font-size: 30px;
+    line-height: 70px;
+    border-radius: 5px;
+    padding: 0;
+}
+
+#actions{
+    width: auto;
+    height: fit-content;
+    margin : 50px 2% 50px 2%;
+}
+
+#listefooter {
+    clear: both;
+    position: relative;
+    z-index: 10;
+    bottom: 0;
+
+    text-align: right;
+    opacity: 0.7;
+    color:#003863;
+}
+footer{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+
+    text-align: right;
+    opacity: 0.7;
+    color:#003863;
+}
+
+#formulaire{
+    margin-top: 50px;
+    text-align: center;
+}
+#formulaire p {
+    text-align: center;
+}
+
+#connected h5{
+    position: absolute;
+    right: 0px;
+}
+#mesintervention{
+    text-align: center;
+    font-size:x-large ;
+    margin-top: 5%;
+
+}
+#mesintervention input {
+    margin-top: 20px;
+    font-size:x-large ;
+}
+#mesintervention button{
+    font-size:x-large ;
+}
+body {
+    text-align: center;
+}
+
+.demande textarea{ resize:none;}

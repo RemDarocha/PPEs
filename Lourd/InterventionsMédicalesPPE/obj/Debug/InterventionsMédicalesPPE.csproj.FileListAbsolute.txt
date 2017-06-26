@@ -1,0 +1,13 @@
+c:\users\rémi\documents\visual studio 2012\Projects\InterventionsMédicalesPPE\InterventionsMédicalesPPE\bin\Debug\InterventionsMédicalesPPE.exe.config
+c:\users\rémi\documents\visual studio 2012\Projects\InterventionsMédicalesPPE\InterventionsMédicalesPPE\bin\Debug\InterventionsMédicalesPPE.exe
+c:\users\rémi\documents\visual studio 2012\Projects\InterventionsMédicalesPPE\InterventionsMédicalesPPE\bin\Debug\InterventionsMédicalesPPE.pdb
+c:\users\rémi\documents\visual studio 2012\Projects\InterventionsMédicalesPPE\InterventionsMédicalesPPE\obj\Debug\InterventionsMédicalesPPE.Properties.Resources.resources
+c:\users\rémi\documents\visual studio 2012\Projects\InterventionsMédicalesPPE\InterventionsMédicalesPPE\obj\Debug\InterventionsMédicalesPPE.csproj.GenerateResource.Cache
+c:\users\rémi\documents\visual studio 2012\Projects\InterventionsMédicalesPPE\InterventionsMédicalesPPE\obj\Debug\InterventionsMédicalesPPE.exe
+c:\users\rémi\documents\visual studio 2012\Projects\InterventionsMédicalesPPE\InterventionsMédicalesPPE\obj\Debug\InterventionsMédicalesPPE.pdb
+C:\Users\Rémi\documents\visual studio 2012\Projects\InterventionsMédicalesPPE\InterventionsMédicalesPPE\obj\Debug\InterventionsMédicalesPPE.csprojResolveAssemblyReference.cache
+C:\Users\Rémi\documents\visual studio 2012\Projects\InterventionsMédicalesPPE\InterventionsMédicalesPPE\obj\Debug\InterventionsMédicalesPPE.Form1.resources
+C:\Users\Rémi\Documents\visual studio 2012\Projects\InterventionsMédicalesPPE\InterventionsMédicalesPPE\bin\Debug\Dapper.dll
+C:\Users\Rémi\Documents\visual studio 2012\Projects\InterventionsMédicalesPPE\InterventionsMédicalesPPE\bin\Debug\MySql.Data.dll
+C:\Users\Rémi\Documents\visual studio 2012\Projects\InterventionsMédicalesPPE\InterventionsMédicalesPPE\bin\Debug\Dapper.xml
+C:\Users\Rémi\documents\visual studio 2012\Projects\InterventionsMédicalesPPE\InterventionsMédicalesPPE\obj\Debug\InterventionsMédicalesPPE.Form2.resources

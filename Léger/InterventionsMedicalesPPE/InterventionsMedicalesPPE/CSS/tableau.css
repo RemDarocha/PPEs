@@ -1,0 +1,28 @@
+table, th, td {
+    border: 1px solid #003863;
+    color:#003863;
+}
+table {
+    border-collapse: collapse;
+    text-align: left;
+    width: 80%;
+    margin:auto;
+}
+table td, .datagrid table th {
+    padding: 3px 0px;
+}
+table thead th {
+    background-color:#FAFFF5;
+    color:#003761;
+    font-size: 14px;
+    font-weight: bold;
+    border-left: 1px solid #0070A8;
+}
+table tbody td {
+    color: #006391;
+    border-left: 1px solid #0070A8;
+    font-size: 12px;
+    border-bottom: 1px solid #007CDB;
+    font-weight: normal;
+}
+
